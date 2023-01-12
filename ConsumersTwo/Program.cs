@@ -11,7 +11,7 @@ namespace ConsumersTwo
             ConnectionFactory factory = new ConnectionFactory()
             {
                 UserName = "admin",
-                Password = "123456",
+                Password = "admin",
                 HostName = "localhost",
             };
 
